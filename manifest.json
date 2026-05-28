@@ -3,7 +3,7 @@
   "short_name": "origami-diff",
   "start_url": "/origami-difficulty-guide/",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#6366f1",
   "theme_color": "#6366f1",
   "scope": "/origami-difficulty-guide/"
 }
